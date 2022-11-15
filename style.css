@@ -1,0 +1,7 @@
+#occupation {
+    color: blue;
+    font-size: 40px;
+}
+.capitalize {
+    text-transform: capitalize;
+}
